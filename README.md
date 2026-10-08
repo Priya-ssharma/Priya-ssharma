@@ -1,189 +1,391 @@
-<div align="center">
+Create/update my GitHub Profile README using my REAL background, resume, GitHub profile, completed projects, certifications, and my current IIT Roorkee Data Analytics with AI & GenAI program.
 
-# Hi, I'm Priya Sharma 👋
+GitHub:
+https://github.com/Priya-ssharma
 
-### Finance & Data Analytics | SQL | Python | Excel | Power BI
+GitHub username:
+Priya-ssharma
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=180&section=header&text=Priya%20Sharma&fontSize=45&fontColor=0f172a&animation=twinkling&fontAlignY=35" width="100%"/>
+Name:
+Priya Sharma
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Finance+%26+Data+Analytics;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Audit+%7C+MIS+Reporting+%7C+Financial+Analysis;Data-Driven+Business+Insights)](https://git.io/typing-svg)
+Location:
+Mumbai, India
 
-<br/>
+LinkedIn:
+https://www.linkedin.com/in/priyasharma156/
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=checkmarx&logoColor=0f172a)](#)
-[![Profile Views](https://komarev.com/ghpvc/?username=Priya-ssharma&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Priya-ssharma)
-[![Followers](https://img.shields.io/github/followers/Priya-ssharma?style=for-the-badge&color=7dd3fc&labelColor=0f172a&label=FOLLOWERS)](https://github.com/Priya-ssharma)
+==================================================
+1. PROFILE POSITIONING
+==================================================
 
-</div>
+Position me as:
 
----
+Finance & Data Analytics | SQL | Python | Excel | Power BI | Financial Analysis
 
-## 👩‍💼 About Me
+My career direction is:
 
-I am a **Finance & Data Analytics professional** with experience in **audit, financial analysis, reconciliation, MIS reporting, control testing, and client data management**.
+Finance + Data Analytics + AI/GenAI
 
-I work with **Excel, Power BI, SQL, Python, Tally Prime, and Google Sheets** to organize data, identify discrepancies, build reports, and generate actionable insights.
+Do NOT position me as an AI expert, Data Scientist, Machine Learning Engineer, or Agentic AI expert.
 
-I am interested in opportunities where I can combine **finance knowledge, analytical skills, and data-driven problem solving**.
+The profile must accurately represent my current level.
 
----
+==================================================
+2. ABOUT ME
+==================================================
 
-## 💼 Professional Experience
+Write a concise professional About Me section.
 
-### Account Executive | Transformatrix LLP
-**March 2025 – September 2026 | Mumbai**
+Mention that I am a Finance & Data Analytics professional with experience in:
 
-#### Auditor — Thakur Education Group
-**December 2025 – September 2026**
+- Audit
+- Financial Analysis
+- Reconciliation
+- MIS Reporting
+- Control Testing
+- Client Data Management
+- Excel
+- Power BI
+- Tally Prime
+- SQL
+- Python/Pandas
 
-- Conducted interim and statutory audits across **15+ institutes and schools**.
-- Supervised and allocated work to **2 junior staff**, reviewing outputs for accuracy and timely completion.
-- Performed **vouching** of fee receipts, payment records, and supporting documents.
-- Conducted **ledger scrutiny and income-expense analysis** to identify discrepancies and irregular fund movements.
-- Performed **bank reconciliation** between bank statements and Tally records.
-- Verified salary disbursements and **TDS deductions** against payroll, contract, and attendance records.
+Mention that I am expanding my data and AI capabilities through my current Data Analytics with AI & GenAI program from E&ICT Academy, IIT Roorkee.
 
-#### Asset Data & Control Testing — OPC Asset Solution Pvt Ltd
-**March 2025 – November 2025**
+Do not exaggerate my expertise.
 
-- Managed leased asset data across **30+ client companies**.
-- Maintained asset numbers, product specifications, warranty periods, and salesperson-wise assignments.
-- Built **Pivot Table-based MIS reports in Excel** for asset allocation, warranty expiry, and portfolio monitoring.
-- Performed **control testing** and checked design/operational effectiveness of internal controls.
-- Validated serial numbers, asset details, and warranty coverage to identify data inconsistencies.
+==================================================
+3. PROFESSIONAL EXPERIENCE
+==================================================
 
-### Indirect Sales Intern | Reliance Securities Limited
-**May 2023 – June 2023 | Mumbai**
+Account Executive — Transformatrix LLP
+March 2025 – September 2026
+Mumbai
 
-- Supported client acquisition by opening **10+ demat accounts and 5 business accounts**.
-- Analyzed sales performance across **4 regions** to identify trends.
-- Maintained MIS for **20+ clients**.
-- Tracked **71 pending reimbursement invoices** using Excel.
-- Used Excel-based analysis to improve forecast accuracy by **15%** and contributed to **60% territory growth** through structured sales and MIS tracking.
+Client Assignment: Thakur Education Group
+Role: Auditor
+December 2025 – September 2026
 
----
+- Conducted interim and statutory audit activities across 15+ institutes and schools.
+- Supervised and allocated work to 2 junior staff.
+- Performed vouching of fee receipts, payment records and supporting documents.
+- Performed ledger scrutiny and income-expense analysis.
+- Performed bank reconciliation between bank statements and Tally records.
+- Verified salary disbursements and TDS deductions.
 
-## 🎓 Education
+Client Assignment: OPC Asset Solution Pvt Ltd
+March 2025 – November 2025
 
-| Degree | Institution | Year |
-|---|---|---|
-| **MMS – Finance** | Thakur Institute of Management Studies & Research | 2022–2024 |
-| **M.Com – Business Studies** | Mumbai University, Distance Learning | 2021–2023 |
-| **B.Com** | Thakur College of Science and Commerce | 2017–2021 |
+- Managed leased asset data across 30+ client companies.
+- Maintained asset numbers, product specifications, warranty information and assignments.
+- Created Pivot Table-based MIS reports.
+- Performed control testing.
+- Validated serial numbers, asset details and warranty information.
 
----
+Earlier:
 
-## 🏅 Certifications
+Indirect Sales Intern — Reliance Securities Limited
+May 2023 – June 2023
 
-- **Generative AI Mastermind** — Outskill, 2026
-- **Microsoft Power BI Desktop for Business Intelligence** — Udemy, 2025
-- **Excel: Market Research Strategies** — LinkedIn Learning, 2025
-- **How to Research and Write Using Generative AI Tools** — LinkedIn Learning, 2025
-- **Introduction to Career Skills in Data Analytics** — LinkedIn Learning, 2025
-- **Financial Modelling & Valuation** — Udemy, 2024
-- **Risk Management** — AICPA & CIMA, 2023
-- **Tally with GST & MS Office** — Central Board of IT & Vocational Training, 2019
+- Supported 10+ demat accounts and 5 business accounts.
+- Analyzed sales performance across 4 regions.
+- Maintained MIS for 20+ clients.
+- Tracked reimbursement invoices using Excel.
+- Used Excel-based analysis for forecasting and sales tracking.
 
----
+==================================================
+4. EDUCATION
+==================================================
 
-## 🚀 Featured Project
+MMS – Finance
+Thakur Institute of Management Studies & Research
+2022–2024
 
-### 📊 Mamaearth Returns & Growth Intelligence Pipeline
+M.Com – Business Studies
+University of Mumbai, Distance Learning
+2021–2023
 
-A complete analytics pipeline covering **SQL, Python/Pandas, EDA, visualization, and GenAI-powered business insight narration**.
+B.Com
+Thakur College of Science and Commerce
+2017–2021
 
-[![Repository](https://img.shields.io/badge/Code-Capstone_Project_PriyaSharma-7dd3fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priya-ssharma/Capstone_Project_PriyaSharma)
+==================================================
+5. CURRENT PROFESSIONAL DEVELOPMENT
+==================================================
 
-[![Architecture](https://img.shields.io/badge/Architecture-GitDiagram-7dd3fc?style=for-the-badge)](https://gitdiagram.com/priya-ssharma/capstone_project_priyasharma)
+Add a separate section:
 
-| Layer | Technology |
-|---|---|
-| Database | MySQL |
-| Analysis | Python, Pandas |
-| Visualization | Matplotlib |
-| Data | CSV |
-| Analytics | EDA, KPI Analysis, Correlation, Outlier Analysis |
-| GenAI | Gemini API + Offline Fallback |
-| Reporting | SQL Reports + Business Narratives |
+## 📚 Current Learning & Professional Development
 
----
+### Certification Program in Data Analytics with AI & GenAI
+**E&ICT Academy, IIT Roorkee**
+**Currently Pursuing**
 
-## 🛠️ Skills
+Describe this as a current learning program, NOT a completed degree or completed certification.
+
+The program covers:
+
+Module 1 — Core Data Architecture & Analytical Foundations
+
+- Data manipulation and automated cleaning using Google Sheets and Python
+- SQL for relational databases
+- Algorithmic thinking and programming logic using Google Colab
+
+Module 2 — LLM Frameworks & Strategic Prompt Engineering
+
+- Zero-shot and few-shot prompting
+- LLM integration through programmatic API calls
+- AI-assisted analysis, content synthesis and report generation
+
+Module 3 — Intelligence-Driven Wrangling & Visual Narratives
+
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- AI-assisted data-driven hypothesis generation and pattern discovery
+
+Module 4 — Architecting Agentic Systems & Automation
+
+- LangChain
+- CrewAI
+- AI agents
+- Web and external API interaction
+- Multi-agent workflows
+- Business workflow automation
+
+Important:
+
+Clearly label these technologies as CURRENTLY LEARNING / COURSE EXPOSURE where appropriate.
+
+Do NOT present LangChain, CrewAI, AI agents, Claude, OpenAI, or multi-agent systems as professional expertise.
+
+==================================================
+6. CERTIFICATIONS
+==================================================
+
+Include my completed certifications:
+
+- Generative AI Mastermind — Outskill, 2026
+- Microsoft Power BI Desktop for Business Intelligence — Udemy, 2025
+- Excel: Market Research Strategies — LinkedIn Learning, 2025
+- How to Research and Write Using Generative AI Tools — LinkedIn Learning, 2025
+- Introduction to Career Skills in Data Analytics — LinkedIn Learning, 2025
+- Financial Modelling & Valuation — Udemy, 2024
+- Risk Management — AICPA & CIMA, 2023
+- Tally with GST & MS Office — 2019
+
+Do NOT list the IIT Roorkee program as a completed certification because it is currently being pursued.
+
+==================================================
+7. FEATURED PROJECT
+==================================================
+
+Feature this project prominently:
+
+📊 Mamaearth Returns & Growth Intelligence Pipeline
+
+GitHub:
+https://github.com/Priya-ssharma/Capstone_Project_PriyaSharma
+
+Architecture:
+https://gitdiagram.com/priya-ssharma/capstone_project_priyasharma
+
+Describe it as a practical analytics pipeline involving:
+
+- MySQL
+- SQL
+- Python
+- Pandas
+- Data Cleaning
+- Exploratory Data Analysis
+- Outlier Analysis
+- Correlation Analysis
+- Matplotlib
+- Business KPI Analysis
+- Data Visualization
+- Gemini API
+- AI-assisted business narrative generation
+
+Do not exaggerate the project or claim production-level systems.
+
+==================================================
+8. SKILLS
+==================================================
+
+Organize skills into clear categories.
 
 ### Finance & Accounting
 
-**Financial Analysis • MIS Reporting • Audit • Vouching • Ledger Scrutiny • Bank Reconciliation • TDS & Salary Processing • Fund Flow Analysis • Control Testing • Accounting Compliance • Financial Modelling**
+Financial Analysis
+MIS Reporting
+Audit
+Vouching
+Ledger Scrutiny
+Bank Reconciliation
+TDS & Salary Processing
+Control Testing
+Accounting Compliance
+Financial Modelling
 
 ### Data & Analytics
 
-**SQL • Python • Pandas • Advanced Excel • Pivot Tables • VLOOKUP • MIS Dashboards • Power BI • Google Sheets**
+SQL
+Python
+Pandas
+Advanced Excel
+Pivot Tables
+VLOOKUP
+Power BI
+Google Sheets
+Data Cleaning
+EDA
+Data Visualization
 
-### Tools
+### Currently Learning — AI & GenAI
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,github,git,vscode&theme=light" />
-</p>
+LLMs
+Prompt Engineering
+LLM API Integration
+NumPy
+Matplotlib
+Seaborn
+Google Colab
+LangChain
+CrewAI
+AI Agents
+Multi-Agent Workflows
 
----
+Clearly distinguish CURRENTLY LEARNING from professional skills.
 
-## 📈 GitHub Stats
+==================================================
+9. PROFILE DESIGN
+==================================================
 
-<div align="center">
+Use a professional sky-blue theme:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Priya-ssharma&show_icons=true&theme=nord&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc" height="170"/>
+#7dd3fc
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-ssharma&layout=compact&theme=nord&hide_border=true&title_color=7dd3fc&text_color=7dd3fc" height="170"/>
+Keep:
 
-</div>
+- Professional waving header
+- Clean introduction
+- Typing animation
+- Open to Work badge
+- Profile Views if functional
+- Followers badge if functional
+- GitHub Stats if functional
+- Contribution Streak if functional
+- Featured Project
+- LinkedIn
+- GitHub
 
----
+Keep the design clean, modern and recruiter-friendly.
 
-## 🔥 Contribution Streak
+Do not overload the profile with decorative widgets.
 
-<div align="center">
+==================================================
+10. REMOVE COMPLETELY
+==================================================
 
-<img src="https://streak-stats.demolab.com?user=Priya-ssharma&theme=nord&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="700"/>
+Remove:
 
-</div>
+- GitHub Trophies
+- Contribution Activity graph
+- Broken external widgets
+- Broken image placeholders
+- Fake achievements
+- Fake awards
+- Fake statistics
+- Fake project metrics
+- Fake expertise
+- Business Intelligence as a separate claimed expertise
+- Any technology I have not actually used or learned
+- Any exaggerated AI/GenAI claims
+- Any statement suggesting I am an AI Engineer
+- Any statement suggesting I am a Machine Learning Engineer
+- Any statement suggesting I am a Data Scientist
+- Any claim that I have professional experience with LangChain, CrewAI or multi-agent systems
 
----
+==================================================
+11. HONESTY & EXPERIENCE RULE
+==================================================
 
-## 🏆 GitHub Trophies
+This is extremely important.
 
-<div align="center">
+The GitHub profile must NEVER make me look more experienced than I actually am.
 
-<img src="https://github-profile-trophy.vercel.app/?username=Priya-ssharma&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
+Clearly separate:
 
-</div>
+1. Professional Experience
+2. Actual Project Experience
+3. Completed Certifications
+4. Current IIT Roorkee Learning / Academic Exposure
 
----
+If a technology comes from the IIT Roorkee curriculum but I have not demonstrated professional or project-level experience with it, label it as:
 
-## 📊 Contribution Activity
+"Currently Learning"
 
-<div align="center">
+or
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priya-ssharma&bg_color=ffffff&color=334155&line=7dd3fc&point=7dd3fc&area=true&hide_border=true" width="100%"/>
+"Course Exposure"
 
-</div>
+Do not convert course curriculum into professional work experience.
 
----
+==================================================
+12. CAREER POSITIONING
+==================================================
 
-## 📫 Connect With Me
+The profile should be suitable for recruiters hiring for:
 
-<div align="center">
+- Finance Analyst
+- Financial Analyst
+- Data Analyst
+- Research Analyst
+- Finance & Data Analytics
+- Financial Reporting
+- MIS / Reporting Analyst
+- Analytics-oriented Finance roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya%20Sharma-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyasharma156/)
+The overall career story should naturally communicate:
 
-[![GitHub](https://img.shields.io/badge/GitHub-Priya--ssharma-7dd3fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priya-ssharma)
+Finance background
+↓
+Audit & Financial Analysis
+↓
+Excel / Power BI
+↓
+SQL / Python
+↓
+Data Analytics
+↓
+AI / GenAI learning
+↓
+Future exploration of Agentic AI and automation
 
-</div>
+Do not imply that I have already reached the final stage.
 
----
+The profile should show genuine progression and active learning.
 
-<div align="center">
+==================================================
+13. FINAL QUALITY CHECK
+==================================================
 
-### Thanks for visiting my profile! 🌟
+Before generating the final README, check:
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
-
-</div>
+- No fake claims
+- No unsupported experience
+- No fake achievements
+- No broken trophy/activity widgets
+- IIT Roorkee is clearly mentioned
+- IIT Roorkee program is marked "Currently Pursuing"
+- Completed certifications are separated from current learning
+- Actual project technologies are distinguished from course exposure
+- Finance background remains prominent
+- Data Analytics is clearly visible
+- AI/GenAI is presented as an emerging/current skill area
+- The profile is professional and recruiter-friendly
+- The README is not unnecessarily long
+- All external links work
+- Use the exact GitHub username: Priya-ssharma
