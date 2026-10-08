@@ -24,6 +24,8 @@ I am a **Finance & Data Analytics professional** with experience in **audit, fin
 
 I work with **Excel, Power BI, SQL, Python, Tally Prime, and Google Sheets** to organize data, identify discrepancies, build reports, and generate actionable insights.
 
+I am currently expanding my skills in **Data Analytics, AI and GenAI** through the **Certification Program in Data Analytics with AI & GenAI from E&ICT Academy, IIT Roorkee**.
+
 I am interested in opportunities where I can combine **finance knowledge, analytical skills, and data-driven problem solving**.
 
 ---
@@ -86,6 +88,18 @@ I am interested in opportunities where I can combine **finance knowledge, analyt
 
 ---
 
+## 📚 Currently Learning
+
+### Certification Program in Data Analytics with AI & GenAI
+
+**E&ICT Academy, IIT Roorkee — Currently Pursuing**
+
+**Focus:** Python • SQL • Pandas • NumPy • Matplotlib • Seaborn • Google Colab • Prompt Engineering • LLM APIs • AI-Assisted Analytics • LangChain • CrewAI
+
+Building practical knowledge in **data analytics, data visualization, LLM integration, and AI automation** through the program.
+
+---
+
 ## 🚀 Featured Project
 
 ### 📊 Mamaearth Returns & Growth Intelligence Pipeline
@@ -116,7 +130,7 @@ A complete analytics pipeline covering **SQL, Python/Pandas, EDA, visualization,
 
 ### Data & Analytics
 
-**SQL • Python • Pandas • Advanced Excel • Pivot Tables • VLOOKUP • MIS Dashboards • Power BI • Google Sheets**
+**SQL • Python • Pandas • Advanced Excel • Pivot Tables • VLOOKUP • MIS Dashboards • Power BI • Google Sheets • Data Cleaning • EDA • Data Visualization**
 
 ### Tools
 
