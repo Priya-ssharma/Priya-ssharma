@@ -138,17 +138,6 @@ A complete analytics pipeline covering **SQL, Python/Pandas, EDA, visualization,
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Priya-ssharma&theme=nord&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="700"/>
-
-</div>
-
----
-
-
 ## 📫 Connect With Me
 
 <div align="center">
