@@ -126,18 +126,6 @@ A complete analytics pipeline covering **SQL, Python/Pandas, EDA, visualization,
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Priya-ssharma&show_icons=true&theme=nord&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-ssharma&layout=compact&theme=nord&hide_border=true&title_color=7dd3fc&text_color=7dd3fc" height="170"/>
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
